@@ -1,4 +1,5 @@
-#!/bin/python 3
+#!/usr/bin/python3
+
 from queue import Queue
 from optparse import OptionParser
 import time,sys,socket,threading,logging,urllib.request,random
